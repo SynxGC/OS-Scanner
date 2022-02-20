@@ -1,0 +1,21 @@
+Itami.exe$Itami Client
+ITAMI.exe$Itami Client
+Xray_Ultimate_$XrayTexturePack
+KOID.EXE$KoidClient
+koid.exe$KoidClient
+uberassistview.exe$VepeClicker
+NullDLL64.dll$Null Dll
+NullDLL32.dll$Null Dll
+RemoveString_0.2.exe$Generic Strings Cleaner
+GS AutoClicker$GS AutoClicker
+7Clicker.exe$7Clicker
+\Deathz\source\repos\StarDLL\x64\Release\$MonnDLL
+CheatEngine$CheatEngine
+speedhack.dll$CheatEngine
+speedhack-x86_64.dll$CheatEngine
+XMouseButtonControl.exe$XMouseButtonControl
+JNativeHook-D32E6B1128407A7E59EFF481C8643A116AA2F56A.x86_64.dll$JnativeHook (Rastros)
+JNativeHook$JnativeHook (Rastros)
+Combed2X.jpg$Generic Esteganografia
+Speed AutoClicker$Speed AutoClicker
+AutoClicker$AutoClicker (Rastros)

@@ -1,0 +1,11 @@
+fsutil usn createjournal m=2147483648 a=1 C:\$Generic Self-Destruct
+start /MIN cmd.exe /C "del $windir$\Prefetch$Generic Self-Destruct
+cmd.exe /C "del $windir$\Prefetch$Generic Self-Destruct
+fsutil usn deletejournal /d c:$Generic Self-Destruct
+reg  delete$Generic Self-Destruct
+reg  delete "HKEY_CURRENT_USER\Software\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\Compatibility Assistant\Store"$Generic Self-Destruct
+fsutil  usn deletejournal /d c:$Generic Self-Destruct
+FSUTIL  USN DELETEJOURNAL /D C:$Generic Self-Destruct
+cmd.exe /C \"del $windir$\\Prefetch\\$Generic Self-Destruct
+.pf /f /q >nul & reg delete$Generic Self-Destruct
+veg  delete$Generic Self-Destruct

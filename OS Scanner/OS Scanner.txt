@@ -1,0 +1,49 @@
+╔══════════════════════════════════════════════════════════╗
+║                   Grande OS SCANNER                      ║
+╚══════════════════════════════════════════════════════════╝
+
+Packer usado pela bomba: 192 Protector V2 (ConfuserEx mod)
+
+/-/ Como usufluir da source desse incrivel hiper scanner bomba?
+/-/ pega minha maozinha que vou te mostrar
+
+Ta tudo renomeado e desobfuscado (strings e metodos), só jogar no dnSpy o executavel e 
+mete um Ctrl + Shift + K que você acha tudo que quiser, recomendo pesquisar algo 
+como "os-scanner", mas se não tiver QI pra enteder a estrutura basica, aq vai
+
+"FormInit" Inicia o codigo, só seguir o InitializeDomainSecurity que vai ser todas
+definições
+
+"InitializeDomainSecurity" Vai ter o AntiSS (que por sinal é uma bosta), Verificação de PIN,
+Construir PIN, tudo bonitinho e com patch na verificação de PIN
+
+"OwnerModule" é aqui que vc quer começar a skiddar, tem os antibypass, escaners, parser de conta
+do minecraft, verificação de hashes, enviar o resultado, baixar as strings e os krl
+
+"ReadMethodBody" Codigo pasted que o grande dono pegou da net pq não sabe codar a porra de um
+scanner de memoria pqp
+
+
+/-/ Notas
+Não, não é um crack do programa, vc nn vai colocar um pin e vai ter o resultado, isso é a source
+sem obfuscação e legivel, 1/2 do scanner é server-side então o dono pode apagar, Mas eu
+interceptei as connec antes, então deixei uma pasta com as strings requisitadas, Agora a tela
+inicial, progresso e final estão tudo ai, é só você "NOPar" umas funções de verificação, pular
+pra tela final e mostrar um console com os resultados ou seila, ta tudo renomeado bonitinho
+pra vc skiddar a vontade, O metodo "EnviarScan" tem os resultados do scan final é só usar a
+criatividade pra pegar.
+
+
+/-/ Altismo
+"O login do OS é original" > https://codepen.io/lordgamer2354/pen/NEroLg
+Dono com probleminhas criando cenarios de terta cmg > https://z.zz.fo/RUEZC.png
+Cheirinho de desabafo/trauma > https://z.zz.fo/QyxM5.png
+
+
+/-/ Index
+https://os-scanner.site
+https://discord.gg/PPzGvY8p5W
+https://youtu.be/UXrmOaSezUY
+
+
+/-/ Quem fez esse incrivel Unpack/Patch super dificil (levou literalmente 5 minutos)? DeathZ#0001
